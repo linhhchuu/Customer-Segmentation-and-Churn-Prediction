@@ -46,7 +46,8 @@ K-means clustering suggested 3 clear audience segments that closely matched mark
 <img width="1688" alt="image" src="https://github.com/user-attachments/assets/1037b51d-6089-44f0-9e45-697225355156" />
 
 ## Recommendation
-<img width="1690" alt="image" src="https://github.com/user-attachments/assets/14d7bc93-e859-41e8-9f83-e1e277c84341" />
+<img width="1689" alt="image" src="https://github.com/user-attachments/assets/490d9f31-5eb3-431c-a521-368127bef1f5" />
+
 
 ## What I Learned
 * How to operationalize a psychological model (5-factor commitment) using real data
