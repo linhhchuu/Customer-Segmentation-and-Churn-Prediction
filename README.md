@@ -42,7 +42,7 @@ K-means clustering suggested 3 clear audience segments that closely matched mark
     * **Subscription Model** attracts Bargain Hunters (+0.45) to 3.82, which makes sense because this group has low economic factor. The subscription would position Crew’s Cup as a good deal for this price-sensitive customer group. However, lifted intent still falls short from retention threshold
 <img width="1688" alt="image" src="https://github.com/user-attachments/assets/1037b51d-6089-44f0-9e45-697225355156" />
 
-Recommendation
+## Recommendation
 <img width="1690" alt="image" src="https://github.com/user-attachments/assets/14d7bc93-e859-41e8-9f83-e1e277c84341" />
 
 ## What I Learned
