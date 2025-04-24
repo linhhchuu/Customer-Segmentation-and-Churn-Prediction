@@ -23,6 +23,8 @@ To recommend the best strategic investment to reduce customer churn by:
 ## Key Insights
 * **Five-Factor Commitment Model Validated**
 EFA revealed clear loading patterns for affective, normative, economic, forced, and habitual commitment. Cronbach’s alpha scores exceeded 0.7 for all dimensions, confirming reliability.
+<img width="1689" alt="image" src="https://github.com/user-attachments/assets/4ac2d096-d636-42ef-94db-85cd816919ac" />
+
 
 * **Three Distinct Segments Identified**
 K-means clustering suggested 3 clear audience segments that closely matched marketing personas:
@@ -30,7 +32,8 @@ K-means clustering suggested 3 clear audience segments that closely matched mark
   * Bargain Hunters (high affective, low economic)
   * Fitness Buffs (moderate across all)
 <img width="1689" alt="image" src="https://github.com/user-attachments/assets/d5d43c7d-d920-49e3-bea4-0bc0963c80b6" />
-<img width="1688" alt="image" src="https://github.com/user-attachments/assets/171793c3-10df-43a1-bf86-8481540afbde" />
+<img width="1689" alt="image" src="https://github.com/user-attachments/assets/f4d34336-80ae-4989-86a0-bdc04d79442a" />
+
 
 * **Most Influential Predictors of Retention**:
   * Linear regression showed:
