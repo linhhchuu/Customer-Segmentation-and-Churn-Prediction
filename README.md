@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Churn-Prediction
+# Customer Segmentation and Churn Prediction
 
 ## Context
 As part of a Customer Insights & Analysis class, I was tasked with evaluating how different forms of customer commitment influence churn at Crew’s Cup Fitness —  a premium boutique fitness brand undergoing a turnaround. 
